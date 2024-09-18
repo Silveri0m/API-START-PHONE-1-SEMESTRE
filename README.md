@@ -38,31 +38,25 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-A Innova Consultoria tem como principal objetivo assessorar a Doce Sabor a alcançar novos patamares, promovendo um crescimento contínuo e equilibrado, com foco em aumentar os lucros e fomentar a inovação na produção. Nosso compromisso é auxiliar na gestão de processos, garantindo uma regência eficiente em todos os setores da Doce Sabor, desde a administração até as áreas de vendas e produção.
-
+A Start Phone tem como objetivo 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-
-[![SPRINT 1](https://img.youtube.com/vi/L0afRHmZ45o/0.jpg)](https://youtu.be/L0afRHmZ45o)
-
+[![SPRINT 1]()]()
+A fazer
 
 ## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/mRM29sPmXu4/0.jpg)](https://youtu.be/mRM29sPmXu4)
+[![SPRINT 2]()]()
+A fazer
 
 ## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/5g1n42vEU3s/0.jpg)](https://youtu.be/5g1n42vEU3s)
+[![SPRINT 3]()]()
+A fazer
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/tDMO3TMd4Mo/0.jpg)](https://youtu.be/tDMO3TMd4Mo)
-
+[![SPRINT 4]()]()
+A fazer
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
