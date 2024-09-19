@@ -60,7 +60,7 @@ A fazer
 A fazer
 
 ## Tecnologias Utilizadas
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/00c9f680-8113-4b04-a2d8-b0ae30410089)
+![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/T%C3%A9cnologias%20Utilizadas.png)
 
 
 
