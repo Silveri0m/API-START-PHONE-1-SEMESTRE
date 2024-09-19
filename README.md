@@ -34,7 +34,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 <p align="center">
- <img src="https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/EQUIPE%20-%201.png" width="100%"/>
+ <img src="https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/equipe%201.jpeg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
