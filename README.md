@@ -38,7 +38,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-A Start Phone tem como objetivo 
+A Start Phone tem como objetivo ser a principal fornecedora de celulares no mercado, oferecendo uma ampla gama de produtos e serviços que atendam às necessidades de nossos parceiros e consumidores, com excelência em atendimento, logística eficiente, preços acessiveis e suporte técnico.
+
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
