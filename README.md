@@ -59,13 +59,6 @@ A fazer
 [![SPRINT 4]()]()
 A fazer
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
 ## Tecnologias Utilizadas
 ![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/00c9f680-8113-4b04-a2d8-b0ae30410089)
 
