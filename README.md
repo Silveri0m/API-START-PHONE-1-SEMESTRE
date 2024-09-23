@@ -63,8 +63,6 @@ Sprint | Previsão | Status| Histórico|
 | Desnvolvimento | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Participação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Interação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
