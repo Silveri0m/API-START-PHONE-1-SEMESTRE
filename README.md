@@ -31,6 +31,7 @@ Sprint | Previsão | Status| Histórico|
 |04| dd/mm/aaaa| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Cronograma das Sprints
+# SPRINT 1
 ![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/CRONOGRAMA%20SPRINT%201.jpeg)
 
 # Tecnologias Utilizadas
