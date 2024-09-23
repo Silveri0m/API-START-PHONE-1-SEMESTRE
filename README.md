@@ -43,13 +43,7 @@ A Start Phone tem como objetivo ser a principal fornecedora de celulares no merc
 ![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/T%C3%A9cnologias%20Utilizadas.png)
 
 # Cronograma das Sprints
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/59e48cbb-042f-4f10-9ebd-522994b7fb4f)
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/e2f83773-4454-436b-b865-55528794505b)
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/6951c680-a3e5-49cf-ac6a-c97746285ae2)
-
+![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/CRONOGRAMA%20SPRINT%201.jpeg)
 ## Burndown
 >Colocar aqui Burndown do projeto
 
