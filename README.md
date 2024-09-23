@@ -3,7 +3,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Objetivo - Start Phone](#objetivo---start-phone)
+* [Objetivo](#objetivo---start-phone)
 * [Equipe](#equipe)
 * [Andamento das Sprints](#andamento-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
