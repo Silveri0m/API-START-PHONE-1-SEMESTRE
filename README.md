@@ -3,7 +3,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Objetivo](#objetivo)
+* [Objetivo - Start Phone](#objetivo---start-phone)
 * [Equipe](#equipe)
 * [Andamento das Sprints](#andamento-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Objetivo
+# Objetivo - Start Phone
 Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares no mercado, oferecendo uma ampla gama de produtos e serviços que atendam às necessidades de nossos parceiros e consumidores, com excelência em atendimento, logística eficiente, preços acessiveis e suporte técnico.
 
 # Equipe
