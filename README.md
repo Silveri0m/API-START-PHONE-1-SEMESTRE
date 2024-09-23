@@ -40,9 +40,9 @@ Sprint | Previsão | Status| Histórico|
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-
+<details>
 <summary>Hard Skills desenvolvidas</summary>
-  
+ 
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | Excel  | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
