@@ -5,10 +5,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * [Objetivo](#objetivo)
 * [Equipe](#equipe)
+* [Andamento das Sprints](#andamento-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
+
+* # Andamento das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
