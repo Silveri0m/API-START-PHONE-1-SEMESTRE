@@ -7,7 +7,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#burndown)
@@ -39,25 +38,6 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 A Start Phone tem como objetivo ser a principal fornecedora de celulares no mercado, oferecendo uma ampla gama de produtos e serviços que atendam às necessidades de nossos parceiros e consumidores, com excelência em atendimento, logística eficiente, preços acessiveis e suporte técnico.
-
-# Funcionalidades e Demonstrações das Sprints
-
-## Sprint 1
-[![SPRINT 1]()]()
-A fazer
-
-## Sprint 2
-[![SPRINT 2]()]()
-A fazer
-
-## Sprint 3
-[![SPRINT 3]()]()
-A fazer
-
-
-## Sprint 4
-[![SPRINT 4]()]()
-A fazer
 
 ## Tecnologias Utilizadas
 ![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/T%C3%A9cnologias%20Utilizadas.png)
