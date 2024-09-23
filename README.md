@@ -80,12 +80,12 @@ A Start Phone tem como objetivo ser a principal fornecedora de celulares no merc
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★  |
-| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Canvas | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Teams  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| ChatGPT| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel  | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| PowerPoint | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Canvas | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Teams  | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| ChatGPT| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -95,10 +95,10 @@ A Start Phone tem como objetivo ser a principal fornecedora de celulares no merc
 
 | Habilidades | Classificação |
 | ------------| ------------- |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Desnvolvimento | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Participação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Interação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Desnvolvimento | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Participação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Interação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
