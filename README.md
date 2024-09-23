@@ -37,7 +37,6 @@ Sprint | Previsão | Status| Histórico|
 ![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/T%C3%A9cnologias%20Utilizadas.png)
 
 # Competências desenvolvidas
-![image]()
 
 ## Hard Skill (saber tecnológico)
 
