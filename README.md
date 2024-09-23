@@ -48,7 +48,6 @@ Sprint | Previsão | Status| Histórico|
 | PowerPoint | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Canvas | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Teams  | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | ChatGPT| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
