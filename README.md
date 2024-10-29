@@ -25,7 +25,7 @@ Neste semestre estamos criando uma empresa fornecedora de celulares para todo Br
 # Equipe
 
 <p align="center">
- <img src="https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/equipe%201.jpeg" width="100%"/>
+ <img src="https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/equipe.jpg" width="100%"/>
 </p>
 
 # Objetivo - Start Phone
