@@ -2,6 +2,8 @@
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
+* [Projeto (API)](#projeto-api)
+* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo](#objetivo---start-phone)
 * [Andamento das Sprints](#andamento-das-sprints)
@@ -11,6 +13,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
+
+# Projeto (API) 
+Neste semestre estamos criando uma empresa fornecedora de celulares para todo Brasil.
+
+# Micro Certificações
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN" width="30%"/>
+</p>
 
 # Equipe
 
@@ -25,9 +35,9 @@ Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01| 24/09/2024 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 22/10/2024| em andamento |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
+|Kick Off | 03/09/2024 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 24/09/2024 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 22/10/2024| Concluído |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
 |03| dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| dd/mm/aaaa| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
