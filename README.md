@@ -93,19 +93,19 @@ Sprint | Previsão | Status| Histórico|
 
 **Tecnológias Específicas/Apoio**
 
-Canva
+- Canva
 
-Powerpoint
+- Powerpoint
 
-Excel
+- Excel
 
-ChatGPT
+- ChatGPT
 
-Power BI
+- Power BI
 
-Microsoft Teams
+- Microsoft Teams
 
-Scrum
+- Scrum
 
 
 # Competências desenvolvidas
