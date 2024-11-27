@@ -59,20 +59,20 @@ Sprint | Previsão | Status| Histórico|
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
-## Sprint 1 - Concepção
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/51049365-b632-45d8-9993-08d8c4816aa7)
+## Sprint 1 - Pesquisa Inicial
+![image]()
 
 
-## Sprint 2 - Desenvolvimento do Projeto
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/b217448b-7b37-4c55-b53a-32a12cca212d)
-
-      
-## Sprint 3 - Implementação
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/57396aed-4ba6-4162-b2f6-e4454d0a9b1d)
+## Sprint 2 - Sistema ERP
+![image]()
 
       
-## Sprint 4 - Operacionalização
-![image](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/assets/162644582/02c30146-ef6a-4a15-83bd-afe14bd15e99)
+## Sprint 3 - Taxas com base na planilha de dados
+![image]()
+
+      
+## Sprint 4 - Fluxo de caixa
+![image]()
 
 
 # Tecnologias Utilizadas
