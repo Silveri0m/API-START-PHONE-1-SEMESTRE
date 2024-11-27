@@ -32,7 +32,7 @@ Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares
 
 # Andamento das Sprints
 
-![CRONOGRAMA STARTPHONE](https://github.com/user-attachments/assets/859494b3-627d-4c94-a189-becc64518b92)
+![CRONOGRAMA STARTPHONE (1)](https://github.com/user-attachments/assets/807257f8-56e7-42b7-ad3a-4d63fd9f7662)
 
 
 ## Backlog do produto
