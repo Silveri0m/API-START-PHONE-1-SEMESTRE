@@ -42,8 +42,8 @@ Sprint | Previsão | Status| Histórico|
 |04| 03/12/2024| em Andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
 # Cronograma das Sprints
-# SPRINT 1
-![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/CRONOGRAMA%20SPRINT%201.jpeg)
+# Sprint 1
+![image]()
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
