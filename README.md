@@ -92,6 +92,7 @@ Sprint | Previsão | Status| Histórico|
 - Fluxo de Caixa Anual
 
 **Tecnológias Específicas/Apoio**
+
 Canva
 Powerpoint
 Excel
