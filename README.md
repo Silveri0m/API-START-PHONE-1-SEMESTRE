@@ -59,7 +59,7 @@ Sprint | Previsão | Status| Histórico|
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
 </p>
 
-## Sprint 1 - Pesquisa Inicial
+## Sprint 1 - Pesquisa Inicial, Análise Swot e Canva da Empresa.
 ![image]()
 
 
@@ -67,11 +67,11 @@ Sprint | Previsão | Status| Histórico|
 ![image]()
 
       
-## Sprint 3 - Taxas com base na planilha de dados
+## Sprint 3 - Demanda Nacional e Internacional Anual
 ![image]()
 
       
-## Sprint 4 - Fluxo de caixa
+## Sprint 4 - Fluxo de Caixa Anual
 ![image]()
 
 
