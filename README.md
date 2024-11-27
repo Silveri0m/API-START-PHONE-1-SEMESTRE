@@ -76,7 +76,30 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Tecnologias Utilizadas
-![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/T%C3%A9cnologias%20Utilizadas.png)
+
+**Produto**
+
+**Sprint 1**
+- Pesquisa Inicial, Análise Swot e Canva da Empresa.
+
+**Sprint 2**
+- Sistema ERP
+
+**Sprint 3**
+- Demanda Nacional e Internacional Anual
+
+**Sprint 4**
+- Fluxo de Caixa Anual
+
+**Tecnológias Específicas/Apoio**
+Canva
+Powerpoint
+Excel
+ChatGPT
+Power BI
+Microsoft Teams
+Scrum
+
 
 # Competências desenvolvidas
 
