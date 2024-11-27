@@ -94,11 +94,17 @@ Sprint | Previsão | Status| Histórico|
 **Tecnológias Específicas/Apoio**
 
 Canva
+
 Powerpoint
+
 Excel
+
 ChatGPT
+
 Power BI
+
 Microsoft Teams
+
 Scrum
 
 
