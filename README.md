@@ -7,7 +7,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [Objetivo](#objetivo---start-phone)
 * [Andamento das Sprints](#andamento-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Burndown](#burndown)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -40,10 +39,6 @@ Sprint | Previsão | Status| Histórico|
 |02| 22/10/2024| Concluído |[Ver Relatório](https://github.com/ElielmaSilva/API-INOVA-1-SEMESTRE/blob/main/Sprint%202/documento/SPRINT%202.pptx) | 
 |03| 14/11/2024 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| 03/12/2024| em Andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-
-# Cronograma das Sprints
-# Sprint 1
-![image]()
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
