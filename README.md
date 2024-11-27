@@ -50,15 +50,15 @@ Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares
 </p>
 
 ## Sprint 1 - Pesquisa Inicial, Análise Swot e Canva da Empresa.
-![image]()
+![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/sprint%201.png)
 
 
 ## Sprint 2 - Sistema ERP
-![image]()
+![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/sprint%202.png)
 
       
 ## Sprint 3 - Demanda Nacional e Internacional Anual
-![image]()
+![image](https://github.com/Silveri0m/API-START-PHONE-1-SEMESTRE/blob/main/Sprint%201/imagens/sprint%203.png)
 
       
 ## Sprint 4 - Fluxo de Caixa Anual
