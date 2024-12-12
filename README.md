@@ -32,7 +32,8 @@ Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares
 
 # Andamento das Sprints
 
-![CRONOGRAMA STARTPHONE (1)](https://github.com/user-attachments/assets/807257f8-56e7-42b7-ad3a-4d63fd9f7662)
+![CRONOGRAMA STARTPHONE](https://github.com/user-attachments/assets/abe6374c-b1a5-451a-a8c1-1df19d48b07d)
+
 
 
 ## Backlog do produto
@@ -54,7 +55,10 @@ Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares
 
       
 ## Sprint 4 - Fluxo de Caixa Anual
-![image]()
+
+![image](https://github.com/user-attachments/assets/f2ee5234-2dc9-4355-9e74-eda060b627ae)
+![image](https://github.com/user-attachments/assets/e2a89923-9a4f-4666-87ca-003e387fee61)
+
 
 
 # Tecnologias Utilizadas
